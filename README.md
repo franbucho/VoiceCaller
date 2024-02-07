@@ -32,6 +32,14 @@ python tareas_app.py
 
 ## Personalización
 
+## Contributors
+
+- [ Francisco Vilahermosa @franbucho ](https://github.com/Franbucho)
+
+Contributions are welcome! If you'd like to contribute to this project, feel free to submit a pull request.
+
+
+
 Siéntete libre de modificar el código según tus necesidades y preferencias. Puedes ajustar los estilos, colores y funcionalidades según tus requerimientos específicos.
 
 ## Licencia
